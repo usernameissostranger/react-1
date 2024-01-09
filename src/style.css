@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 5px;
+    background-image: url(img/c83e8cdb08a510522db1dbe43e1c49c5.jpg);
+    background-repeat: no-repeat;
+    background-size: 125%;
+}
+  
+h1 {
+    font-size: 24px;
+    color: white;
+}
+  
+button {
+    font-size: 16px;
+    margin: 3px 3px 0 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid white;
+}
+  
+.donkey {
+    width: 400px;
+    height: 550px;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 5px;
+    background-color: white;
+}
